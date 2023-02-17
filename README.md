@@ -1,2 +1,3 @@
 # PrepCourse-Henry
-Inicio  de  git pre course con Henry
+Repositoio local en laptop de tavo
+preparacion de git en henry.com
